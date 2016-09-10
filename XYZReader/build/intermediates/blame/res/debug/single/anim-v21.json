@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/ravisravankumar/Desktop/XYZ Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/ravisravankumar/Desktop/XYZ Reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/ravisravankumar/Desktop/XYZ Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/ravisravankumar/Desktop/XYZ Reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/ravisravankumar/Desktop/XYZ Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/ravisravankumar/Desktop/XYZ Reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/ravisravankumar/Desktop/XYZ Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
+        "source": "/Users/ravisravankumar/Desktop/XYZ Reader/xyzreader/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
+    },
+    {
+        "merged": "/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
+        "source": "/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
+    },
+    {
+        "merged": "/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]
