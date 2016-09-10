@@ -1,0 +1,61 @@
+<com.example.xyzreader.ui.DrawInsetsFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/draw_insets_frame_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.xyzreader.ui.ObservableScrollView
+        android:id="@+id/scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:id="@+id/photo_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <!--suppress AndroidLintContentDescription -->
+                <com.example.xyzreader.ui.DynamicHeightNetworkImageView
+                    android:id="@+id/photo"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fitsSystemWindows="true"/>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="112dp"
+                    android:background="@drawable/photo_background_protection" />
+
+            </FrameLayout>
+
+            <include
+                layout="@layout/detail_card"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="@dimen/detail_card_side_margin"
+                android:layout_marginRight="@dimen/detail_card_side_margin"
+                android:layout_marginTop="@dimen/paper_overlap" />
+
+        </LinearLayout>
+    </com.example.xyzreader.ui.ObservableScrollView>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/share_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        android:contentDescription="@string/action_share"
+        android:src="@drawable/ic_share"
+        app:borderWidth="0dp"
+        app:elevation="@dimen/fab_elevation"
+        app:fabSize="normal"
+        app:pressedTranslationZ="@dimen/fab_press_translation_z" />
+
+</com.example.xyzreader.ui.DrawInsetsFrameLayout>
