@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_6ea6f93d39d612bde294ba5710b60d8fde518d0f.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_8f057d8592106b78c667feb935cd6ef23ead106a.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_13a792492f1e9cfd50b7e9b95d5d85bf579ebd85.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1ac5b6d36ed6d2e0b6b6e6909bc4e1fb86cf1923">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.2.0_d7afb656e211ac54c5ccae1836a7ec8c1e665db0.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley_950501d1356501af245f34aa43832fb1f608cab3.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d2b8b414924e694265cc18dc96a58f9a501c8c98.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_ddf38d0ecad225c253bdcaae7cfd94d5cb0bebb4.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_e13f746b791744288d9dee85713091d735f7a782.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_c817cec8f71168db823c5a0f26b2d70858e5073f.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1dcb8005f460d87baed0abdc9ec997a58797856e">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_c0f7ea639bb2e004ed744f0edb1890fcf2ef8e1c.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_d1ddf23edd314a74f433ffd11be619297ff10f10.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_12804b21546d15116710f58b03f20095cdf00cc9.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_5c5b983b82cf4a0c324217d3e5ef1319554e4f26.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.0_cf9094fbe79a48b2eb8baa2a0f21dd3243bf6e46.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/glide-3.7.0_ef81bf352e448e00caf6cb66698ae9ba4402abb6.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_859d93e8793dcdb9df7473e06bf0da0c0226ef0e.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_92067dda7133e9d5c78a6734aa831e2818c4ac6f.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_7b94c49edcf230b2c59f0fe278384743ea46ce3f.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_5e7a6600db6f564bb6298da97cae6e83d54d89f5.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_d77f1d62b6680f23bff20ab2fcdbc18244b817e5.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_0d52c1e145f1662ffcef126f7c5b4969f22458ff.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_79be4a5dbc49fe7de658863996ae0e430aa8c2f8.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6bf34c4b4fcd3f6913eca652d13c51dbde51c3a4">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-24.2.0_0d0f8bd275278399eb02420ea83b35ede93b9d0f.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_809df9c9649c852e9df355d9a7a7445de7e732b9.jar" />
+    </item>
+    <item
+        jar="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/ravisravankumar/Documents/Projects-Android/NanoDegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_9a3396292e6e32242bb827e5fda8c1a929166d7c.jar" />
+    </item>
+
+</items>
